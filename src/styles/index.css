@@ -1,3 +1,9 @@
 /* 
     General Styles
 */
+
+
+.test {
+    color: red;
+    font-weight: 0 !important;
+}
